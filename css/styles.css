@@ -1,0 +1,9 @@
+.adSite {
+    text-align: center;
+}
+
+.adBanner {
+    width: 225px;
+    height: 55px;
+    border: 2px solid #ccc;
+}

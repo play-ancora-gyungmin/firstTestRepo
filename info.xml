@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ourcompany>
+    <crew>
+        <name>Peater</name>
+        <level>Basic</level>
+        <pay>300</pay>
+        <team>Tech</team>
+    </crew>
+    <crew>
+        <name>Mr Lee</name>
+        <level>Chef</level>
+        <pay>1000</pay>
+        <team>Tech</team>
+    </crew>
+</ourcompany>
